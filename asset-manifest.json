@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gadgetlab.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/gadgetlab.io/static/js/main.77fb2a78.chunk.js",
+    "main.js.map": "/gadgetlab.io/static/js/main.77fb2a78.chunk.js.map",
+    "runtime-main.js": "/gadgetlab.io/static/js/runtime-main.084a29f0.js",
+    "runtime-main.js.map": "/gadgetlab.io/static/js/runtime-main.084a29f0.js.map",
+    "static/js/2.22ae809c.chunk.js": "/gadgetlab.io/static/js/2.22ae809c.chunk.js",
+    "static/js/2.22ae809c.chunk.js.map": "/gadgetlab.io/static/js/2.22ae809c.chunk.js.map",
+    "static/js/3.56023bb6.chunk.js": "/gadgetlab.io/static/js/3.56023bb6.chunk.js",
+    "static/js/3.56023bb6.chunk.js.map": "/gadgetlab.io/static/js/3.56023bb6.chunk.js.map",
+    "index.html": "/gadgetlab.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/gadgetlab.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.22ae809c.chunk.js.LICENSE.txt": "/gadgetlab.io/static/js/2.22ae809c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gadgetlab.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.084a29f0.js",
+    "static/js/2.22ae809c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.77fb2a78.chunk.js"
+  ]
+}
