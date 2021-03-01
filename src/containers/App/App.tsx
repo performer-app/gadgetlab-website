@@ -26,7 +26,7 @@ function App() {
             <br/>
             <div className="content-text">Electronic music performance controllers are cryptic. Action ‘x’ results in output ‘?’. It begs the question, is the performer actually doing anything on stage?</div>
           </div>
-          <div className="image-block"><img src="/overview-screenshot.png"/></div>
+          <div className="image-block"><img src="/gadgetlab-website/overview-screenshot.png"/></div>
 
         </div>
       </div>
