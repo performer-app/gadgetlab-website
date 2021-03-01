@@ -2,10 +2,12 @@
     position: -webkit-sticky; /* for Safari */
     position: sticky;
     top: 0;
+    left: 0;
     align-self: flex-start; /* <-- this is the fix */
     
     height: 100%;
    
     padding-left: 70px;
+    padding-right: 100px;
     padding-top: 48px;
 }
