@@ -1,0 +1,44 @@
+.site-navigator {
+    flex: none;
+    flex-basis: 100%;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 10px 0px;
+    margin-bottom: 72px;
+}
+
+.title {
+    color: #FFFFFF;
+    font-family: Fira Mono;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+
+.pages {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+}
+.page-title {
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 10px 0px;
+
+    color: #FFFFFF;
+    font-family: Fira Mono;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}  

@@ -1,0 +1,11 @@
+.navigation {
+    position: -webkit-sticky; /* for Safari */
+    position: sticky;
+    top: 0;
+    align-self: flex-start; /* <-- this is the fix */
+    
+    height: 100%;
+   
+    padding-left: 70px;
+    padding-top: 48px;
+}

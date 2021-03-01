@@ -1,6 +1,6 @@
 {
   "name": "gadgetlab-website",
-  "homepage": "gadgetlab.io",
+  "homepage": "https://gadgetlab.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
