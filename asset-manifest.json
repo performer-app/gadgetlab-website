@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gadgetlab-website/static/css/main.185dc175.chunk.css",
-    "main.js": "/gadgetlab-website/static/js/main.e93639cf.chunk.js",
-    "main.js.map": "/gadgetlab-website/static/js/main.e93639cf.chunk.js.map",
+    "main.js": "/gadgetlab-website/static/js/main.eef6a0b5.chunk.js",
+    "main.js.map": "/gadgetlab-website/static/js/main.eef6a0b5.chunk.js.map",
     "runtime-main.js": "/gadgetlab-website/static/js/runtime-main.7b591391.js",
     "runtime-main.js.map": "/gadgetlab-website/static/js/runtime-main.7b591391.js.map",
     "static/js/2.3de3bd2c.chunk.js": "/gadgetlab-website/static/js/2.3de3bd2c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7b591391.js",
     "static/js/2.3de3bd2c.chunk.js",
     "static/css/main.185dc175.chunk.css",
-    "static/js/main.e93639cf.chunk.js"
+    "static/js/main.eef6a0b5.chunk.js"
   ]
 }
