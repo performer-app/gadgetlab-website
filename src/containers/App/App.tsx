@@ -25,10 +25,10 @@ function App() {
               <br/>
               <div className="content-text">Electronic music performance controllers are cryptic. Action ‘x’ results in output ‘?’. It begs the question, is the performer actually doing anything on stage?</div>
             </div>
-            <div className="image-block"><img src="/gadgetlab-website/app-screenshots/screenshot-1.svg"/></div>
+            <div className="image-block"><img src="/app-screenshots/screenshot-1.svg"/></div>
           </div>
           <div className="block-collection">
-            <div className="image-block"><img src="/gadgetlab-website/app-screenshots/screenshot-2.svg"/></div>
+            <div className="image-block"><img src="/app-screenshots/screenshot-2.svg"/></div>
             <div className="content-block">
               <div  className="content-title">Perform With Style.</div>
               <div className="content-text">Configure layouts to showcase your skills and complement your sound.</div>
